@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">qutoutiaoAccess</string>
+    <string name="accessibility_name">趣头条插件</string>
+    <string name="accessibility_description">此插件必须时刻开始，否则部分功能将失效</string>
+</resources>
